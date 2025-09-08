@@ -1,5 +1,5 @@
 # High-Level Design (HLD)
-## Price Optimization Tool - BCG X Case Study
+## Price Optimization Tool
 
 ---
 
@@ -1021,28 +1021,28 @@ HA Configuration:
 - [x] Responsive UI/UX
 - [x] Database design and API
 
-### Phase 2: Enhanced Authentication (2-3 weeks)
+### Phase 2: Enhanced Authentication 
 - [ ] Email verification system
 - [ ] Role-based access control
 - [ ] Permission management
 - [ ] Admin dashboard
 - [ ] User management interface
 
-### Phase 3: Advanced Analytics (3-4 weeks)
+### Phase 3: Advanced Analytics 
 - [ ] Real ML model integration
 - [ ] Advanced chart types
 - [ ] Export functionality
 - [ ] Real-time data updates
 - [ ] Historical trend analysis
 
-### Phase 4: Enterprise Features (4-6 weeks)
+### Phase 4: Enterprise Features 
 - [ ] Multi-tenant architecture
 - [ ] Audit logging
 - [ ] API rate limiting
 - [ ] Advanced security
 - [ ] Performance optimization
 
-### Phase 5: Production Readiness (2-3 weeks)
+### Phase 5: Production Readiness
 - [ ] CI/CD pipeline
 - [ ] Monitoring and alerting
 - [ ] Load testing
