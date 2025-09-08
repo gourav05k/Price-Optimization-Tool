@@ -2,11 +2,11 @@
 
 ## 📋 Project Overview
 
-The Price Optimization Tool is a full-stack web application designed to help businesses determine optimal pricing strategies based on demand forecasts and market conditions. This application was developed as part of a BCG X case study assignment and provides a multi-functional interface for product management, demand forecasting, and pricing optimization.
+The Price Optimization Tool is a full-stack web application designed to help businesses determine optimal pricing strategies based on demand forecasts and market conditions. This application provides a multi-functional interface for product management, demand forecasting, and pricing optimization.
 
 ## 🎯 Problem Statement
 
-In the digital era, efficient pricing is crucial for businesses to stay competitive. The client requires a web application that enables business users to determine optimal pricing strategies based on demand forecasts and market conditions. The goal is to create a multi-functional interface that addresses these needs effectively while maintaining ease of use and performance efficiency.
+In the digital era, efficient pricing is crucial for businesses to stay competitive. It's a web application that enables business users to determine optimal pricing strategies based on demand forecasts and market conditions. The goal is to create a multi-functional interface that addresses these needs effectively while maintaining ease of use and performance efficiency.
 
 ## 🏗️ Architecture Overview
 
@@ -475,14 +475,9 @@ The demand forecasting and pricing optimization features were implemented with:
 - [ ] Security audit and penetration testing
 - [ ] Performance testing and optimization
 
-## 👥 Contributing
-
-This project was developed as a case study assignment. For any questions or clarifications about the implementation, please refer to the comprehensive code documentation and API schemas available at `/docs` when running the backend server.
-
-
 ---
 
 **Developed by**: Gourav Kamboj  
-**Purpose**: BCG X Price Optimization Tool Case Study  
-**Date**: 2024  
+**Purpose**: Price Optimization Tool Case Study  
+**Date**: 2025
 **Version**: 1.0.0
